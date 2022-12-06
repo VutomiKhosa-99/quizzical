@@ -18,7 +18,7 @@ const About = () => {
             </article>
             <article>
                 <h3>Who made Quizzical?</h3>
-                <p>Hi! I’m Patrick, a web developer 👋. You can check more of my work <a href="https://github.com/thepatrick00">here</a>.</p>
+                <p>Hi! I’m Vutomi Luigi Khosa, a Front-End Developer 👋. You can check more of my work <a href="https://luigidigital.com/">here</a>.</p>
             </article>
         </div>
     );
